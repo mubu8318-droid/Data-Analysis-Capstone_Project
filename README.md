@@ -7,9 +7,13 @@ This project focuses on performing Exploratory Data Analysis (EDA) on agricultur
 🎯 Key Objectives
 
 🧹 Clean and preprocess the dataset
+
 📊 Explore market-wise and commodity-wise pricing differences
+
 📈 Identify seasonal or regional trends
+
 🔍 Detect anomalies and missing values
+
 📉 Visualize findings using plots and statistical summaries
 
 🛠️ Tools & Technologies Used
