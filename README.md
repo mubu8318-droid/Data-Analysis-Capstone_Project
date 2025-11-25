@@ -16,12 +16,14 @@ This project focuses on performing Exploratory Data Analysis (EDA) on agricultur
 
 📉 Visualize findings using plots and statistical summaries
 
+
 🛠️ Tools & Technologies Used
 | Category    | Tools                                                   |
 | ----------- | ------------------------------------------------------- |
 | Programming | Python                                                  |
 | Environment | Jupyter Notebook, Google Collab and VS Code                                        |
 | Libraries   | Pandas, NumPy, Matplotlib, Seaborn (and others if used) |
+
 
 📁 Repository Contents
 | File Name                    | Description                                                                          |
