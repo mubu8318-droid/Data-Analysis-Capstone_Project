@@ -1,5 +1,4 @@
-# Data-Analysis-Capstone_Project
-Analysis of Agricultural Commodity Prices Across Indian Markets
+# Agricultural Commodity Prices Across Indian Market
 
 📌 Project Overview
 This project focuses on performing Exploratory Data Analysis (EDA) on agricultural commodity price data collected from various markets across India. The aim is to uncover patterns, trends, relationships, and insights that can help understand how commodity prices vary across regions and time. The dataset represents real-world agricultural records, making this project valuable for identifying pricing behavior, seasonal influences, demand–supply factors, and market volatility.
